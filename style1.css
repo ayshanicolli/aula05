@@ -15,7 +15,7 @@
     font-size: 40px;
     height: 150px;
     color: #f90101;
-    font-family: "courier New", Courier, monospace;
+    font-family: "courier New", 'Courier New', Courier, monospace;
     border-radius: 16px;
 }
 .bloco-3{
@@ -25,7 +25,7 @@
     font-size: 40px;
     height: 150px;
     color: #f6f6f6;
-    font-family: "courier New", Courier, monospace;
+    font-family: "courier New", 'Courier New', Courier, monospace;
     border-radius: 16px;
 }
 
