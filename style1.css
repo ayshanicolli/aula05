@@ -5,7 +5,7 @@
     font-size: 40px;
     height: 150px;
     color: azure;
-    font-family: "courier New",'Courier New', monospace;
+    font-family: "courier New",'Courier New',Courier, monospace;
     border-radius: 16px;
 }
 .bloco-2{
