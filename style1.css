@@ -48,3 +48,7 @@ content{
     padding: 16px;
     height: 500px;
 }
+.links{
+    display: inline;
+    margin-left: 480px;
+}
